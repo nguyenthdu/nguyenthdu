@@ -43,8 +43,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 <br>
+<br clear="both">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthdu&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)               
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenthdu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=false&order=2" height="400" alt="languages graph"  />
+</div>
+
+###           
 
 
 
