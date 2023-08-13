@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nguyen Thanh Du</h1>
 <h3 align="center">Software engineer</h3>
 
-<img align="right" height="150" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
-###
 
-<img src="https://raw.githubusercontent.com/nguyenthdu/nguyenthdu/output/snake.svg" alt="Snake animation" />
 
-###
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
@@ -43,8 +38,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
-###
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthdu&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 
 
