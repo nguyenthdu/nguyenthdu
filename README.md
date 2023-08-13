@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nguyen Thanh Du</h1>
-<h3 align="center">Software engineer</h3>
+
+<img align="right" height="150" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Discipline%20will%20lead%20you%20to%20a%20place%20where%20motivation%20alone%20cannot%20reach." alt="Quote" />
 
 
 
 
 
-
-<div align="left">
+###
+<h2 align="left">💫 About Me:</h2>
+🔭 Hello! I am a software engineer.<br>🌱 I have a passion for learning new technologies and constantly strive to expand my skill set<br>👯 As a driven professional, I am always seeking new challenges and opportunities to grow.<br>🤝 With a passion for creating high-quality software products, I consistently strive to provide value to my clients<br>
+<br>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="40" alt="scala logo"  />
@@ -37,8 +42,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
+<br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthdu&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthdu&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)               
+
+
+
+
+
+
+
 
 
 
