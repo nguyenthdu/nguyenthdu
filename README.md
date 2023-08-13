@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyen Thanh Du</h1>
 
-<img align="right" height="150" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+<img align="right" height="140" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Discipline%20will%20lead%20you%20to%20a%20place%20where%20motivation%20alone%20cannot%20reach." alt="Quote" />
 
 
@@ -10,7 +10,8 @@
 ###
 <h2 align="left">💫 About Me:</h2>
 🔭 Hello! I am a software engineer.<br>🌱 I have a passion for learning new technologies and constantly strive to expand my skill set<br>👯 As a driven professional, I am always seeking new challenges and opportunities to grow.<br>🤝 With a passion for creating high-quality software products, I consistently strive to provide value to my clients<br>
-<br>
+
+<h2 align="left"></h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
@@ -43,8 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 <br>
-<br clear="both">
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenthdu&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=true&order=2" height="150" alt="languages graph"  />
