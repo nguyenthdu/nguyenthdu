@@ -1,5 +1,5 @@
 
-<h2 align="left">💫 About Me:</h2>
+<h2 align="left">Hi there👋</h2>
 🔭 Hello! I am a software engineer.<br>🌱 I have a passion for learning new technologies and constantly strive to expand my skill set<br>👯 As a driven professional, I am always seeking new challenges and opportunities to grow.<br>🤝 With a passion for creating high-quality software products, I consistently strive to provide value to my clients<br>
 
 <h2 align="left"></h2>
