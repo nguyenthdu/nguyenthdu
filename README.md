@@ -1,6 +1,6 @@
 
 <h2 align="left">Hi there👋</h2>
-🔭 I am a software engineer.<br>🌱 I have a passion for learning new technologies and constantly strive to expand my skill set<br>👯 As a driven professional, I am always seeking new challenges and opportunities to grow.<br>🤝 With a passion for creating high-quality software products, I consistently strive to provide value to my clients<br>
+🔭 I am a software engineer.<br>🌱 I have a passion for learning new technologies and constantly strive to expand my skill set<br>👯 As a driven professional, I am always seeking new challenges and opportunities to grow.<br>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenthdu&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=graywhite&hide_border=true&order=2" height="150" alt="languages graph"  />
