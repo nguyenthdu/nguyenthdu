@@ -5,7 +5,7 @@
   <img src="https://streak-stats.demolab.com?user=nguyenthdu&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=3" alt="streak graph" width="400" />
   <br>
   <img height="150" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@nguyenthdu&layout=compact&theme=graywhite&hide_border=true&order=3" width="450" alt="Harlok's wakatime stats"" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@nguyenthdu&layout=compact&theme=graywhite&hide_border=true&order=3" width="350" alt="Harlok's wakatime stats"" />
 </div>
 
 
